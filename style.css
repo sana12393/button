@@ -1,0 +1,69 @@
+body{
+    margin:20px;
+}
+button{
+    margin:20px;
+    cursor: pointer;
+
+}
+.cart{
+    background-color:red ;
+    padding:10px 35px;
+    color:white;
+
+}
+.cart:hover{
+    background-color:rgb(231, 69, 69);
+}
+.start{
+    background-color: yellow;
+    color: blue;
+    border:1px solid blue;
+    padding:13px;
+}
+.start:hover{
+    background-color:blue;
+    color:yellow;
+    border: 3px solid yellow;
+}
+
+
+.log{
+    background-color: rgb(145, 228, 145);
+    color: white;
+    border-radius: 25px;
+    padding:12px 38px;
+}
+.sign{
+    color:purple;
+    background-color: white;
+    border:1px solid purple;
+    padding:5px 10px;
+}
+.sign:hover{
+    color:white;
+    background-color:purple;
+
+}
+.subs{
+    color:white;
+    background-color: orange;
+    padding:10px 20px;
+}
+.subs:hover{
+    border:3px solid black;
+    font-size:xx-large;
+    padding:0px;
+}
+.twitt{
+    border-radius:50%;
+    padding:10px;
+    font-size: xx-large;
+    border:2px solid blue;
+    color:blue;
+}
+.twitt:hover{
+    color:white;
+    background-color: blue;
+    border:2px solid whitesmoke;
+}
